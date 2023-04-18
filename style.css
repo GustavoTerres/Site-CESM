@@ -11,3 +11,15 @@ body{
     background-color:#2E62E9;
     display: flex;
     justify-content: space-around;}
+
+.cabecalho-imagem {
+    width: 80;
+    padding: 12px;
+}  
+.lista-cabecalho {
+    display: inline-block;
+    padding: 30px;
+    color: floralwhite;
+    font-size: 15px;
+    
+}  
