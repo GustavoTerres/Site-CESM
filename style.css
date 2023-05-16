@@ -10,6 +10,7 @@ body{
 .cabecalho {
     background-color:#2E62E9;
     display: flex;
+    align-items: flex-end;
     justify-content: space-around;}
 
 .cabecalho-imagem {
@@ -30,10 +31,12 @@ body{
     justify-content: left;
     align-items: center;
     padding: 24px 0;
+    background-color: deepskyblue;
 }
 
 .texto-lista {
 
     display: inline-block;
     list-style-type: none;
+    font-size: 21px;
 }
