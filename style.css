@@ -16,7 +16,8 @@ body{
 .cabecalho-imagem {
     width: 80;
     padding: 12px;
-}  
+} 
+
 .lista-cabecalho {
     display: inline-block;
     padding: 30px;
@@ -39,4 +40,17 @@ body{
     display: inline-block;
     list-style-type: none;
     font-size: 21px;
+}
+
+.escola-imagem {
+
+    width: 95%;
+    margin: 42px;
+}
+
+.escola-texto {
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    margin: 20px;
 }
