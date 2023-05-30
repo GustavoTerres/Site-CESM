@@ -1,38 +1,38 @@
 *{
-    margin:0;
-    padding:0;
+    margin: 0;
+    padding: 0;
 }
 
 body{
-    background-color:#a2b2da
+    background-color: darkgrey;
 }
-
-.cabecalho {
-    background-color:#2E62E9;
+.cabeçalho{
+    background-color: #3E65EE;
     display: flex;
     align-items: flex-end;
-    justify-content: space-around;}
+    justify-content: space-around;
+}
 
-.cabecalho-imagem {
+.cabeçalho-imagem{
     width: 30%;
     padding: 12px;
-} 
+}
 
-.lista-cabecalho {
-    display: inline-block;
+.lista-cabecalho{
+
+    display:inline-block;
     padding: 30px;
-    color: floralwhite;
     font-size: 35px;
-    
-} 
+    font-weight: bolder;
+}
 
 .escola {
-    background-image: -webkit-linear-gradient();
+    background-image: linear-gradient();
     display: flex;
     justify-content: left;
     align-items: center;
     padding: 24px 0;
-    background-color: deepskyblue;
+    background-color: #9BBBFB;
 }
 
 .texto-lista {
@@ -43,6 +43,7 @@ body{
 }
 
 .escola-imagem {
+
     width: 95%;
     margin: 42px;
 }
@@ -54,6 +55,10 @@ body{
     margin: 20px;
 }
 
-.equipe {
-    
+.profissional-nome{
+    font-size: 15px;
+}
+
+.equipe{
+    font-size: 35px;
 }
