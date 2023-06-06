@@ -14,7 +14,7 @@ body{
 }
 
 .cabeçalho-imagem{
-    width: 20%;
+    width: 15%;
     padding: 12px;
 }
 
@@ -24,6 +24,7 @@ body{
     padding: 30px;
     font-size: 40px;
     font-weight: bolder;
+    color: white;
 }
 
 .escola {
