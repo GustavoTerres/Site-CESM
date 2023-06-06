@@ -72,7 +72,7 @@ body{
 
 .equipe-escola {
     display: flex;
-    padding: 50px;
+    padding: 30px;
     justify-content: space-evenly;
 }
 
