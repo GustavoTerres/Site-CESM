@@ -84,3 +84,13 @@ body{
     list-style-type: none;
     text-align: center;
 }
+
+.siga{
+	height: 100px;
+	background: #E0CBCB;
+	text-align:center;
+}
+.contato{
+	background-color:#ECCECE;
+	text-align:center;
+}
