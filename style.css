@@ -85,6 +85,12 @@ body{
     text-align: center;
 }
 
+footer{
+    text-align: center;
+
+}
+
+
 .siga{
 	height: 100px;
 	background: #A7ABB6;
@@ -92,9 +98,15 @@ body{
     font-size: 30px;
     padding: 10px;
 }
+
+.imagem_rodape{
+    width:10%;
+    padding:5px ;
+}
+
 .contato{
 	background-color:#A7ABB6;
 	text-align:center;
     font-size: 20px;
-    padding: 10px;
+    padding: 5px;
 }
